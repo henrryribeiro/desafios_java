@@ -1,0 +1,3 @@
+Criar um programa Java que utilize as classes 
+HttpClient, HttpRequest e HttpResponse para fazer uma consulta à API CoinGecko 
+e exibir a cotação atual de uma criptomoeda escolhida pelo usuário.
